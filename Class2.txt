@@ -1,0 +1,4 @@
+Class Class2{
+public int m;
+public int n;
+}
